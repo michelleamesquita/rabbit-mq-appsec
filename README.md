@@ -14,7 +14,7 @@ Este projeto demonstra como usar **RabbitMQ** com **Python** de forma segura, pr
 
 Instale as dependências:
 ```sh
-pip install pika
+pip -r requirements.txt
 ```
 
 ---
